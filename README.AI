@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence</title>
+</head>
+<body>
+    <!--header-->
+
+    =<table border="0" width="100%" cellspacing="0"bgcolor="#673de6">
+        <tr><td>
+            <table border="0" width="85%" align="center"cellspacing="15">
+                <tr>
+                    <td><font face="open sans" size="7" color="black"><b>Artificial Intelligence</b></font></td>
+                    <td width="20"></td>
+                    <td><a href="home"><font color="#fff">home</font></a></td>
+                    <td><a href="#"><font color="#fff">About</font></a></td>
+                    <td><a href="#"><font color="#fff">machine learning</font></a></td>
+                    <td><a href="#"><font color="#fff">Deep learning</font></a></td>
+                    <td><a href="#"><font color="#fff">Robotics</font></a></td>
+                </tr>
+            </table>
+        </td></tr>
+    </table>
+     <!-- end header-->
+
+     <!--home-->
+     <table>
+        <tr><td>
+            <table width="100%" border="0" align="center" cellpadding="15px">
+                <tr>
+                    <td>
+                        <h1> <font face="open sans" size="7">Hii</font></h1>
+                        <h1><font face="open sans" size="6">I'm Awesome</font></h1>
+                        <font size="4">Artificial intelligence (AI) is a wide-Ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. While AI is an interdisciplinary science with multiple approaches,advancements in machine learning, in particular, are creating a paradigm shift in virtually every sector of the tech industry.</font>
+                        <hr>
+                        <a href="#"><button>Download CV</button></a>
+                        <a href="http://bit.ly/48rUmhg"><button>Hire Me</button></a>
+                    </td>
+                    <td>
+                        <img src="8.jpg" height="400px">
+                    </td>
+                </tr>
+            </table>
+        </td></tr>
+     </table>
+     <!--end home-->
+     <!--About-->
+     <table width="100%" bgcolor="skyblue">
+        <tr><td>
+            <table width="85%" border="0"align="center" cellpading="15px">
+                <tr align="center">
+                    <td colspan="3">
+                        <font size="6" face="open sans">Artificial Intelligence</font><br>
+                        <hr align="center" width="10%">
+                        <font size="5" face="open sans">This is about Artificial intelligence, technology,and its Application</font>
+                    </td>
+                </tr>
+                <tr align="center">
+                    <td>
+                        <img src="3.jpg" width="50%" >
+                        <font size="6"></font>
+                        <font size="3">AI - artificial intelligence is a machine learning programne.It refers to the development of computer systems capable of performing tasks that typically require human intelligence. This includes learning from experience (machine learning), problem-solving, speech recognition, and decision-making. AI can be categorized into narrow AI, designed for specific tasks, and general AI, which would have human-like abilities across a range of activities.</font>
+                        </font>
+                    </td>
+                    <td><img src="5.jpg" width="50%" >
+                        <font size="6">Artificial Intelligence technology</font>
+                        <font size="4">AI- Artificial intelligence technology involves creating algorithms that enable machines to perform tasks that typically require human intelligence. This includes learning, problem-solving, speech recognition, and decision-making. AI can be categorized into narrow AI (focused on specific tasks) and general AI (capable of handling diverse tasks like a human).Ethical considerations, responsible development, and addressing biases are important aspects of AI deployment, given its potential impact on various aspects of society. </font>
+                    <td><img src="1.webp" width="50%">
+                        <font size="6">Artificial Intelligence importance</font>
+                        <font size="4"> *Healthcare:* AI aids in diagnostics, personalized medicine, and drug discovery.<br>
+
+                            2. *Finance:* Used for fraud detection, algorithmic trading, and customer service.<br>
+                            
+                            3. *Autonomous Vehicles:* AI powers self-driving cars and drones for navigation and decision-making.<br>
+                            
+                            4. *Retail:* Recommender systems, demand forecasting, and supply chain optimization benefit from AI.</font>
+                            
+                            
+                            
+                           
+                </tr>
+            </table>
+        </td></tr>
+     </table>
+     <!--End services-->
+     
+     <!--Machine learning-->
+     <table width="100%"  bgcolor="navyblue">
+        <tr>
+            <td>
+                <table border="0" width="100%" cellpadding="15px">
+                    <tr align="center"><td colspan="2"><font face ="open sans" size="7">Machine learning</font></td></tr>
+                    <tr>
+                        <td><tr align="center">
+                            <td>
+                                <img src="17.jpg" width="100%" >
+                                <font size="5">Artificial Intelligence: Artificial intelligence, also called machine intelligence, can be understood by an intelligence, unlike the natural intelligence shown by humans and animals, which is demonstrated by machines. It looks at ways of designing intelligent devices and systems that can address problems creatively that are often treated as a human prerogative. Thus, AI means that a machine somehow imitates human behavior.
+
+                                    Machine Learning: Machine learning is an AI subset and consists of techniques that enable computers to recognize data and supply AI applications. Different algorithms (e.g., neural networks) contribute to problem resolution in ML.</font>
+                                    <img src="24.webp" width="100%" >
+                        
+                    </tr>
+                </table>
+            </td>
+        </tr>
+     </table>
+     <!--end machine learning-->
+
+     <!--deep learning-->
+     <table width="100%" bgcolor=" red">
+        <tr>
+            <td>
+                <table border="0" width="100%" cellpadding="15px">
+                    <tr align="center"><td colspan="2"><font face ="open sans" size="7">Deep learning</font></td></tr>
+                    <tr>
+                        <td><tr align="center">
+                            <td>
+                                <img src="22.png" width="100%" >
+                                <font size="5">Deep learning, often called deep neural learning or deep neural network, is a subset of machine learning that uses neural networks to evaluate various factors with a similar framework to a human neural system. It has networks that can learn from unstructured or unlabeled data without supervision.</font>
+                                <img src="18.jpg" width="100%" >
+
+                        
+                    </tr>
+                </table>
+            </td>
+        </tr>
+     </table>
+      <!-- End deep learning-->
+      <!--Robotics-->
+      <table width="100%"  bgcolor=" green" >
+        <tr>
+            <td>
+                <table border="0" width="100%" cellpadding="15px">
+                    <tr align="center"><td colspan="2"><font face ="open sans" size="7">Robotics</font></td></tr>
+                    <tr>
+                        <td><tr align="center">
+                            <td>
+                                <img src="20.jpg" width="100%" >
+                                <font size="5">AI-powered robots are augmented with a variety of sensors (including vision devices such as 2D/3D cameras, vibration sensors, proximity sensors, accelerometers, and other environmental sensors,) that feed them with sensing data they can analyze and act upon in real-time.</font>
+                                <img src="15.jpg" width="100%" >
+                                <font size="5">AI allows articulated robots to perform tasks faster and more accurately. AI technologies infer information from vision sensors, such as 2D/3D cameras, to segment and understand scenes as well as detect and classify objects.</font>
+                                <img src="" width="100%">
+                                <font size="5">Robots and artificial intelligence often go hand in hand, as AI technologies can be integrated into robots to enhance their capabilities. Here are some aspects of the intersection between robots and AI:<br>
+
+                                    1. *Autonomous Operation:* AI enables robots to operate autonomously, making decisions based on sensor input and environmental data.<br>
+                                    
+                                    2. *Machine Learning in Robotics:* Robots can learn from experience using machine learning algorithms, allowing them to adapt to changing conditions and optimize their performance.<br>
+                                    
+                                    3. *Computer Vision:* AI-powered computer vision enables robots to interpret visual information, identifying objects, navigating environments, and performing tasks that require visual recognition.<br>
+                                    
+                                    4. *Natural Language Processing (NLP):* Integration of NLP allows robots to understand and respond to human commands, facilitating interaction in various applications.<br>
+                                    
+                                    5. *Collaborative Robots (Cobots):* AI contributes to the development of collaborative robots that can work alongside humans, understanding and responding to human movements and intentions.<br>
+                                    
+                                    6. *Medical Robotics:* AI is applied in surgical robots, prosthetics, and other medical devices to enhance precision and decision-making.</font>
+                                    <img src="19.jpg" width="100%">
+                                    <font size="5">Robotics is a separate entity in Artificial Intelligence that helps study the creation of intelligent robots or machines. Robotics combines electrical engineering, mechanical engineering and computer science & engineering as they have mechanical construction, electrical component and programmed with programming language. Although, Robotics and Artificial Intelligence both have different objectives and applications, but most people treat robotics as a subset of Artificial Intelligence (AI). Robot machines look very similar to humans, and also, they can perform like humans, if enabled with AI.</font>
+
+                        
+                    </tr>
+                </table>
+            </td>
+        </tr>
+     </table>
+     <!--end robotics-->
+     <!--Footer-->
+     <table width="100%" bgcolor="#25282f">
+        <tr align="center">
+            <td>
+                <table border="0" width="85%" align="center" cellpadding="15px">
+                    <tr>
+                        <td>
+                            <img src="32.png" width="10%"><br>
+                            <font size="9" color="#fff">Location</font><br>
+                            <font size="7" color="#fff">Rajasthan</font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <font color="blue" font size="5"</font>copyright@2024|Artificial Intelligence</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+     </table>
+     
+    
+</body>
+</html>
